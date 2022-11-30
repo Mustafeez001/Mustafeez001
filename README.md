@@ -1,3 +1,4 @@
+![logo](https://github.com/Mustafeez001/Mustafeez001/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Mohd Mustafeez Ahmad</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
