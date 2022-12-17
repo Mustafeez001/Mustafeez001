@@ -24,7 +24,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafeez001&" alt="mustafeez001" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafeez001&label=Profile%20views&color=0e75b6&style=flat" alt="mustafeez001" /> </p>
 
- 🌱 I’m currently learning **MySql,Java,Spring Boot , Web Development**
+<!--  🌱 I’m currently learning **MySql,Java,Spring Boot , Web Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,7 +46,7 @@
 
 
 
-
+ -->
 
 
 
